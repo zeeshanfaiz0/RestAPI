@@ -1,7 +1,6 @@
 {
   "name": "restapi",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -23,5 +22,6 @@
     "firebase": "^9.6.6",
     "nodemon": "^2.0.15",
     "uuid": "^8.3.2"
-  }
+  },
+  "description": ""
 }
